@@ -1,0 +1,232 @@
+
+body {
+  padding: 8px;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  box-shadow: 2px 3px 3px 0 rgba(0, 0, 0, 0.2), 0 5px 6px 0 rgba(0, 0, 0, 0.19);
+  background-color: #734E46 !important;
+}
+
+header {
+  padding: 7px;
+  border-radius: 40px;
+  margin-bottom: 5px;
+  opacity: 0.85;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-shadow:  2px 2px 5px rgba(0, 0, 0, 0.3);
+  color: #734E46;
+  background-color: #F2D8D8;
+}
+
+button {
+  width: 80px;
+  box-shadow: 2px 3px 3px 0 rgba(0, 0, 0, 0.2), 0 5px 6px 0 rgba(0, 0, 0, 0.19);
+  opacity: 0.85;
+  color: #F2D8D8;
+  border-color: #3b231e;
+  background-color: #734E46;
+}
+
+p {
+  padding: 10px;
+  gap: 5px;
+  display: flex;
+  flex-direction: column;
+  text-shadow:  2px 2px 5px rgba(0, 0, 0, 0.3);
+  color: #734E46;
+}
+
+select {
+  width: 210px;
+  height: 29px;
+  border-radius: 30px;
+  box-shadow: 2px 3px 3px 0 rgba(0, 0, 0, 0.2), 0 5px 6px 0 rgba(0, 0, 0, 0.19);
+  color: #734E46;
+  background-color: #F2D8D8;
+}
+
+option {
+  background-color: #f1c5c5;
+}
+
+input {
+  border-radius: 40px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  border-color: #b38c8c;
+  background-color: #F2D8D8;
+}
+
+label {
+  margin-bottom: 1px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  color: #734E46;
+}
+
+.start-img {
+  padding: 15px;
+  width: 700px;
+  height: 300px;
+  border-radius: 40px;
+}
+
+.horses-img {
+  padding: 15px;
+  border-radius: 40px;
+}
+
+.tracks-img {
+  padding: 15px;
+  width: 250px;
+  height: 230px;
+  border-radius: 40px;
+}
+
+.filters {
+  gap: 3px;
+  width: 218px;
+  border-radius: 30px;
+  margin-bottom: 5px;
+  opacity: 0.85;
+  margin-left: 30px;
+  display: flex;
+  align-items: flex-end;  
+}
+
+.main {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.info-horse {
+  width: 400px;
+  border-radius: 40px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  opacity: 0.85;
+  display: flex;
+  background-color: #F2D8D8;
+}
+
+.quiz-box {
+  width: 400px;
+  border-radius: 40px;
+  margin-left: 10px;
+  opacity: 0.85;
+  background-color: #F2D8D8;
+}
+
+.track-view {
+  width: 700px;
+  height: 300px;
+  border-radius: 40px;
+  margin-bottom: 10px;
+  opacity: 0.85;
+  display: inline-flex;
+  background-color: #F2D8D8;
+}
+
+.info-track {
+  width: 700px;
+  height: 300px;
+  border-radius: 40px;
+  margin-bottom: 10px;
+  opacity: 0.85;
+  display: inline-flex;
+  background-color: #F2D8D8;
+}
+
+.modal {
+  z-index: 1;
+  left: 0; top: 0;
+  display: none;
+  position: fixed;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  width: 500px !important;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 40px !important;
+  margin-bottom: 2px;
+  opacity: 0.95;
+  background-color: #F2D8D8 !important;
+}
+
+.close {
+  margin-bottom: 0.3px;
+  font-size: 24px;
+  cursor: pointer;
+  float: right;
+  color: #734E46;
+}
+
+.second {
+  height: 34px;
+  margin-left: 220px;
+  color: white;
+  border-color: #a49898;
+  background-color: #decfcf;
+}
+.first {
+  height: 48px;
+  color: white;
+  border-color: #cdae00;
+  background-color: #FFD700;
+}
+.third {
+  height: 27px;
+  color: white;
+  border-color: #945c25;
+  background-color: #cd7f32;
+}
+
+.horse-info {
+  width: 300;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  opacity: 0.85;
+  border-radius: 40px;
+  line-height: 10px;
+  background-color: #F2D8D8;
+}
+
+h5 {
+  color: #734E46 !important;
+}
+
+#quiz{
+  gap: 10px;
+  padding: 15px;
+  width: 250px;
+  text-align: left;
+}
+
+.restart {
+  border-radius: 30px;
+  width: 120px;
+}
+
+.submit {
+  border-radius: 30px;
+  width: 100px;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
+
+li input[type="radio"] {
+  margin-right: 0.75rem;
+}
+
+.gif {
+  width: 270px;
+  height: 85px;
+}

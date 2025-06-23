@@ -1,0 +1,298 @@
+{
+  "tracks": {
+    "Churchill Downs": {
+      "info": {
+        "image": "/images/tracks/Churchill_Downs-track-view.webp",
+        "img": "/images/tracks/Churchill_Downs_map.png",
+        "description": "Churchill Downs is a horse racing complex in south Louisville, Kentucky, United States that hosts the annual Kentucky Derby. It opened in 1875 and was named for Samuel Churchill, whose family was prominent in Kentucky for many years. The first Kentucky Derby, a Thoroughbred sweepstakes and part of today's horse racing Triple Crown, and the first Kentucky Oaks were held in the same year. The racetrack is owned and operated by Churchill Downs Incorporated. With the infield open for the Kentucky Derby, the capacity of Churchill Downs is roughly 170,000"
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/becks-spirit.jpg",
+            "name": "Beck’s Spirit",
+            "age": "3",
+            "track-number": "9",
+            "jockey": "Corey Lanerie",
+            "owner": "Circle B Farms",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/forge-in-fire.jpg",
+            "name": "Forge In Fire",
+            "age": "5",
+            "track-number": "10",
+            "jockey": "Luis Saez",
+            "owner": "J. Curt Ayers",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/dancing-noah.jpg",
+            "name": "Dancing Noah",
+            "age": "4",
+            "track-number": "6",
+            "jockey": "Rafael Bejarano",
+            "owner": "Alvin Taylor",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Pimlico Race Course": {
+      "info": {
+        "image": "/images/tracks/Pimlico-track.avif",
+        "img": "/images/tracks/Pimlico-map.jpeg",
+        "description": "Pimlico Race Course is a thoroughbred horse racetrack in Baltimore, Maryland, most famous for hosting the Preakness Stakes. Its name is derived from the 1660s when English settlers named the area where the facility currently stands in honor of Olde Ben Pimlico's Tavern in London. The racetrack is nicknamed Old Hilltop after a small rise in the infield that became a favorite gathering place for thoroughbred trainers and race enthusiasts. Pimlico was owned by the Stronach Group from 2011 until 2024, when ownership transferred to the state-run Maryland Thoroughbred Racetrack Operating Authority"
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/journalism.webp",
+            "name": "Journalism",
+            "age": "3",
+            "track-number": "2",
+            "jockey": "Umberto Rispoli",
+            "owner": "",
+            "description": "Bridlewood Farm, Don Alberto Stable"
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/goster.jpg",
+            "name": "Gosger",
+            "age": "3",
+            "track-number": "9",
+            "jockey": "Luis Saez",
+            "owner": "Harvey A. Clarke Racing Stables",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/sandman.webp",
+            "name": "Sandman",
+            "age": "3",
+            "track-number": "7",
+            "jockey": "John R. Velazquez",
+            "owner": "Bridlewood Farm, Don Alberto Stable",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Keeneland": {
+      "info": {
+        "image": "/images/tracks/Keeneland-track.jpg",
+        "img": "/images/tracks/Keeneland-map.jpg",
+        "description": "Keeneland Association, Inc. is an equine business based in Lexington, Kentucky. It includes two distinct divisions: the Keeneland Race Course, a Thoroughbred racing facility, and Keeneland Sales, a horse auction complex. In 2009, the Horseplayers Association of North America introduced a rating system for 65 Thoroughbred racetracks in North America. Keeneland was ranked #1 of the top ten tracks. It is listed on the National Register of Historic Places and designated a National Historic Landmark in 1986."
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/goster.jpg",
+            "name": "Gosger",
+            "age": "3",
+            "track-number": "6",
+            "jockey": "Irad Ortiz, Jr",
+            "owner": "Harvey A. Clarke Racing Stables",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/bracket-buster.jpg",
+            "name": "Bracket Buster",
+            "age": "3",
+            "track-number": "2",
+            "jockey": "Manny Franco",
+            "owner": "BBN Racing, LLC",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/preator.jpg",
+            "name": "Praetor",
+            "age": "3",
+            "track-number": "7",
+            "jockey": "Flavien Prat",
+            "owner": "William H. Lawrence, CHP Racing та Gainesway",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Saratoga Race Course": {
+      "info": {
+        "image": "/images/tracks/Saratoga-track.jpg",
+        "img": "/images/tracks/Saratoga-map.jpg",
+        "description": "Saratoga Race Course is a Thoroughbred horse racing track located on Union Avenue in Saratoga Springs, New York, United States. Opened in 1863, it is often considered to be the oldest major sporting venue of any kind in the U.S. It is the fourth oldest racetrack after Pleasanton Fairgrounds Racetrack (1858). The Saratoga meet originally lasted only four days. The meet has been lengthened gradually since that time. From 1962 to 1990, the meet lasted four weeks and began in late July or early August. In 2010, the meet expanded to 40 racing days, with races held five days per week."
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/sovereignty.jpg",
+            "name": "Sovereignty",
+            "age": "3",
+            "track-number": "2",
+            "jockey": "Junior Alvarado",
+            "owner": "Godolphin",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/journalism.webp",
+            "name": "Journalism",
+            "age": "3",
+            "track-number": "7",
+            "jockey": "Umberto Rispoli",
+            "owner": "Bridlewood Farm, Don Alberto Stable",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/beaza.webp",
+            "name": "Beaza",
+            "age": "3",
+            "track-number": "6",
+            "jockey": "Flavien Prat",
+            "owner": "Bridlewood Farm",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Belmont Park": {
+      "info": {
+        "image": "/images/tracks/Belmont-track.webp",
+        "img":"/images/tracks/Belmont-map.webp",
+        "description": "Belmont Park is a thoroughbred horse racetrack in Elmont, New York, just east of New York City limits best known for hosting the Belmont Stakes, the final leg of the American Triple Crown. It was opened on May 4, 1905, and is one of the most well known racetracks in the United States. The original structure was demolished in 1963, and a second facility opened in 1968. The second structure was demolished in 2023, and a third version of Belmont Park is expected to open in 2026. Belmont Park is typically open for racing from late April through mid-July (known as the Spring meet), and again from mid-September through late October (the Fall meet)."
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/raging-torrent.jpg",
+            "name": "Raging Torrent",
+            "age": "4",
+            "track-number": "5",
+            "jockey": "Lanfranco Dettori",
+            "owner": "Yuesheng Zhang, Craig Dado",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/fierceness.webp",
+            "name": "Fierceness",
+            "age": "4",
+            "track-number": "1",
+            "jockey": "John Velazquez",
+            "owner": "Craig Dado",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/white-abarrio.jpg",
+            "name": "White Abarrio",
+            "age": "6",
+            "track-number": "2",
+            "jockey": "Irad Ortiz Jr.",
+            "owner": "C2 Racing Stable, Gary Barber, La Milagrosa",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Oaklawn Park": {
+      "info": {
+        "image": "/images/tracks/Oaklawn-track.webp",
+        "img":"/images/tracks/Oaklawn-map.jpg",
+        "description": "Oaklawn Racing Casino Resort, formerly Oaklawn Park Race Track, is an American thoroughbred racetrack and casino in Hot Springs, Arkansas. It is the home to The Racing Festival of the South, a four-day series of races that concludes with the Arkansas Derby. In 2017, Oaklawn was ranked fifth among thoroughbred racetracks in North America by the Horseplayers Association of North America. In 2015, a pair of victories at Oaklawn put American Pharoah on the path to becoming American Horse of the Year and the first Triple Crown winner in 37 years."
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/sandman.webp",
+            "name": "Sandman",
+            "age": "3",
+            "track-number": "-",
+            "jockey": "Jose Ortiz",
+            "owner": "D. J. Stables, St. Elias Stables",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/publisher.jpg",
+            "name": "Publisher",
+            "age": "3",
+            "track-number": "-",
+            "jockey": "Flavien Prat",
+            "owner": "D. J. Stables, St. Elias Stables",
+            "description": "Gus King, Estate of Brereton C. Jones"
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/coal-battle.jpg",
+            "name": "Coal Battle",
+            "age": "3",
+            "track-number": "-",
+            "jockey": "Juan Vargas",
+            "owner": "Norman Stables",
+            "description": ""
+          }
+        }
+      }
+    },
+    "Longchamp": {
+      "info": {
+        "image": "/images/tracks/Longchamp-track.jpg",
+        "img": "/images/tracks/Longchamp-map.png",
+        "description": "The Longchamp Racecourse (French: Hippodrome de Longchamp, pronounced is a 57 hectare horse-racing facility located on the Route des Tribunes at the Bois de Boulogne in the 16th arrondissement of Paris, France. It is used for flat racing and is noted for its variety of interlaced tracks and a famous hill that provides a real challenge to competing thoroughbreds. It has several racetracks varying from 1,000 to 4,000 metres in length, with 46 different starting posts. The course is home to more than half of the group one races held in France, and it has a capacity of 50,000."
+      },
+      "horses": {
+        "1": {
+          "info": {
+            "image": "/images/horses/daryz.jpg",
+            "name": "Daryz",
+            "age": "3",
+            "track-number": "1",
+            "jockey": "M Barzalona",
+            "owner": "F Graffard",
+            "description": ""
+          }
+        },
+        "2": {
+          "info": {
+            "image": "/images/horses/poschiavo.jpg",
+            "name": "Poschiavo",
+            "age": "3",
+            "track-number": "2",
+            "jockey": "M Velon",
+            "owner": "M Nigge",
+            "description": ""
+          }
+        },
+        "3": {
+          "info": {
+            "image": "/images/horses/phineas.jpg",
+            "name": "Phineas",
+            "age": "3",
+            "track-number": "5",
+            "jockey": "M Guyon",
+            "owner": "A Fabre",
+            "description": ""
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "quizData": [
+    {
+      "question": "What is the name of the horse race known as 'The Most Exciting Two Minutes in Sports'?",
+      "a": "Kentucky Derby",
+      "b": "Preakness Stakes",
+      "c": "Belmont Stakes",
+      "d": "Grand National",
+      "correct": "a"
+    },
+    {
+      "question": "Which country is home to the Grand National horse race?",
+      "a": "USA",
+      "b": "Australia",
+      "c": "United Kingdom",
+      "d": "Ireland",
+      "correct": "c"
+    },
+    {
+      "question": "What is the typical number of horses in the Kentucky Derby starting gate?",
+      "a": "20", 
+      "b": "12",
+      "c": "10",
+      "d": "8",
+      "correct": "a"
+    },
+    {
+      "question": "Which legendary racehorse went undefeated in 1973 and won the U.S. Triple Crown?",
+      "a": "Seabiscuit",
+      "b": "Secretariat", 
+      "c": "American Pharoah",
+      "d": "Man o’ War", 
+      "correct": "b"
+    },
+    {
+      "question": "What is a jockey?",
+      "a": "A horse trainer",
+      "b": "A person who owns the horse",
+      "c": "A veterinarian",
+      "d": "A person who rides the horse during races",
+      "correct": "d"
+    }
+  ]
+}
